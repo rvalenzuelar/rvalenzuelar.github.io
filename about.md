@@ -2,7 +2,8 @@
 layout: page
 title: About
 ---
-Hola,
 
-Soy Ingeniero en Recursos Naturales Renovables de la Universidad de Chile (2006) y PhD en Ciencias Atmosfericas y Oceanicas de la University of Colorado Boulder (2016). Actualmente me desempeno como profesor asistente en la Universidad de OHiggins en Rancagua, Chile.
+Hello,
+
+I'm Raúl, Renewable Natural Resources Engineer from Universidad de Chile (2007) and PhD in Atmospheric and Oceanic Sciences from University of Colorado Boulder (2016). Currently I'm Assistant Professor at Universidad de O'Higgins in Rancagua, Chile
 
