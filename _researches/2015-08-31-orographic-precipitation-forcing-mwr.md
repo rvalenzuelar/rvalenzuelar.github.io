@@ -1,7 +1,7 @@
 ---
 title: Orographic Precipitation Forcing along the Coast of Northern California during a Landfalling Winter Storm
 type: researches
-date: 2015-02-18
+date: 2015-08-31
 authors: 
 status: published
 ---
