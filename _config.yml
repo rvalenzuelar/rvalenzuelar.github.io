@@ -6,7 +6,7 @@ logo_url:           https://avatars0.githubusercontent.com/u/6894066?v=4 # Get i
 
 # Site Settings
 url:                https://rvalenzuelar.github.io # main url
-baseurl:            /the-plain-academic
+baseurl:            /
 permalink:          /:title # Post permalink
 timezone:           America/Recife # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
