@@ -3,5 +3,5 @@ layout: page
 title: Contact
 ---
 
-- E-mail: your e-mail
-- GitHub: your GitHub account
+- E-mail: raul.valenzuela at uoh.cl
+- GitHub: rvalenzuelar
