@@ -1,11 +1,11 @@
 # Site Info
-title:              "The Plain Academic"
-description:        "My academic site"
-author_name:        "Breno Viana" # change this to your name
-logo_url:           https://avatars3.githubusercontent.com/u/17532418?s=460&v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+title:              "Web personal"
+description:        "Sitio academico"
+author_name:        "Raúl Valenzuela" # change this to your name
+logo_url:           https://avatars0.githubusercontent.com/u/6894066?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
-url:                https://brenov.github.io # main url
+url:                https://rvalenzuelar.github.io # main url
 baseurl:            /the-plain-academic
 permalink:          /:title # Post permalink
 timezone:           America/Recife # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
