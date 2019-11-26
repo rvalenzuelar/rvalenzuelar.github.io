@@ -4,4 +4,5 @@ title: Contact
 ---
 
 - E-mail: raul.valenzuela at uoh.cl
-- GitHub: rvalenzuelar
+- GitHub: https://github.com/rvalenzuelar
+- Twitter: @raulrainfall
