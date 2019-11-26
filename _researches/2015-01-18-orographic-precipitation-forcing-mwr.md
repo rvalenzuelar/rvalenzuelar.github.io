@@ -6,4 +6,4 @@ authors:
 status: published
 ---
 
-Valenzuela, R. and D. Kingsmill. Orographic Precipitation Forcing along the Coast of Northern California during a Landfalling Winter Storm. Monthly Weather Review, 143, 3570-3590 [PDF](https://journals.ametsoc.org/doi/pdf/10.1175/MWR-D-14-00365.1)
+__Valenzuela, R.__ and D. Kingsmill. Orographic Precipitation Forcing along the Coast of Northern California during a Landfalling Winter Storm. Monthly Weather Review, 143, 3570-3590 [PDF](https://journals.ametsoc.org/doi/pdf/10.1175/MWR-D-14-00365.1)
