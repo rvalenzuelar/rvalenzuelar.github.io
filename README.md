@@ -4,7 +4,7 @@
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![GENERATOR](https://img.shields.io/badge/made_with-jekyll-blue.svg)
 
-- **Demo:** https://brenov.github.io/the-plain-academic/
+- **Demo:** https://rvalenzuelar.github.io
 
 ![SCREENSHOT](img/img1.png)
 
