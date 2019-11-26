@@ -2,9 +2,8 @@
 layout: page
 title: About
 ---
+Hola,
 
-Hello.
-
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+Soy Ingeniero en Recursos Naturales Renovables de la Universidad de Chile (2006) y PhD en Ciencias Atmosféricas y Oceánicas de la University of Colorado Boulder (2016). Actualmente me desempeño como profesor asistente en la Universidad de O'Higgins en Rancagua, Chile.
 
 **Less is more..**
