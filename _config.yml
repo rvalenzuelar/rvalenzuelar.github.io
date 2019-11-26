@@ -1,7 +1,7 @@
 # Site Info
 title:              "Web personal"
 description:        "Sitio academico"
-author_name:        "Raúl Valenzuela" # change this to your name
+author_name:        "Raul Valenzuela" # change this to your name
 logo_url:           https://avatars0.githubusercontent.com/u/6894066?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
