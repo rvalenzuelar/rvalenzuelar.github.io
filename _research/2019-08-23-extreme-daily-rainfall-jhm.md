@@ -1,6 +1,6 @@
 ---
 title: Extreme Daily Rainfall in Central-Southern Chile and its Relationship with Low-Level Horizontal Water Vapor Fluxes
-type: researches
+type: research
 date: 2019-08-23
 authors: 
 status: published

@@ -1,6 +1,6 @@
 ---
 title: Precipitation Impacts of Atmospheric Rivers in South America
-type: researches
+type: research
 date: 2018-10-22
 authors: 
 status: published

@@ -1,6 +1,6 @@
 ---
 title: "Terrain-trapped Airflows and Orographic Rainfall along the Coast of Northern California. Part I: Kinematic characterization using a wind profiling radar"
-type: researches
+type: research
 date: 2017-06-29
 authors: 
 status: published
