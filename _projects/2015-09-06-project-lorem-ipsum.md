@@ -2,7 +2,6 @@
 title: Coming soon
 type: projects
 date: 2015-09-06
-imageurl: /the-plain-academic/assets/preview-mycat.png
 authors: Someone
 ---
 
