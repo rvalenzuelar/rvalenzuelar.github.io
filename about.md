@@ -5,7 +5,7 @@ title: About
 
 Hello,
 
-I'm Raúl, from Chile. I studied and graduated from Renewable Natural Resources Engineering at Universidad de Chile in 2008. After graduating I worked as Inspector in the General Directorate of Water in the city of Copiapó and then as a Environmental Analysist in Ambimet, in Santiago. I was awarded with a Becas Chile and Fulbright BIO scholarship to start doctorate stduies in 2011. 
+I'm Raúl, from Chile. I studied and graduated from Renewable Natural Resources Engineering at Universidad de Chile in 2008. After graduating, I worked as Inspector in the General Directorate of Water (DGA) in Copiapó and then as a Environmental Analysist in Ambimet, in Santiago. I was awarded with a Becas Chile and Fulbright BIO scholarship to start doctorate studies in 2011. 
 
 I started my PhD at University of Colorado (CU), in the beautiful city of Boulder. During the program I focused in meteorology subjects, developing my dissertation in the study of orographic precipitation along the coast of northern California by using a ground-based X-band Doppler radar. I defended my thesis and graduated in 2016.
 
