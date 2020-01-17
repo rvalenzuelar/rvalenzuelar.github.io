@@ -32,3 +32,8 @@ for i in $(seq 1979 2018); do
 	ncatted -a long_name,trr,o,c,"Total rain rate" -O ./trr_box/era5_total_rain_rate_$i.nc ./trr_box/era5_total_rain_rate_$i.nc;
 done
 ```
+
+### Extract precipitation (in m to mm) from a grid point and put output in a csv file
+```bash
+cdo -outputtab,date,lon,lat,value -remapnn,lon=-70.75_lat=-34.25 -mulc,1000 era5_tp_daily_2000.nc > ofile.txt
+```
