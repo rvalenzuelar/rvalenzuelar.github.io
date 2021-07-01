@@ -135,7 +135,7 @@ with open(sname,'w') as f:
 	f.write(script.format(var_name, yrs, yre))
 ```
 
-In this way you can change any parameter and the call the script using bash. I have the lat and lon coordinates fixed, but you could change them dynamically using, for example, `Pandas`.
+In this way you can change any parameter and call the script using `bash`. I have the `lat` and `lon` coordinates copied from an csv file (here I replaced them with ...), but you could change them dynamically using, for example, `Pandas`.
 
 Due to a Github building vulneravility, I have removed one `{}` that should enclose the code after `'reanalysis-era5-single-levels'`. If you copy/paste this code, you need to add it.
 
