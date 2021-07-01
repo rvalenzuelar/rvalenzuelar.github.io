@@ -103,7 +103,7 @@ def application():
     # Retrieve hourly surface temperature
     data = ct.catalogue.retrieve(
         'reanalysis-era5-single-levels',
-        {{
+        {
             'variable': '{}',
             'product_type': 'reanalysis',
             'year': list(range({}, {})),
@@ -118,7 +118,7 @@ def application():
                 '20:00', '21:00', '22:00', '23:00',
             ],
             'grid':['1', '1']
-        }}
+        }
     )
 
     # Interpolate data for two points
@@ -130,14 +130,14 @@ def application():
     return points
 """
 
-# print(script.format(yrs, yre))
-
 sname = 'extract_grid_points_ngl.py'.format(var)
 with open(sname,'w') as f:
 	f.write(script.format(var_name, yrs, yre))
 ```
 
 In this way you can change any parameter and the call the script using bash. I have the lat and lon coordinates fixed, but you could change them dynamically using, for example, `Pandas`.
+
+Due to a Github building vulneravility, I have removed one `{}` that should enclose the code after `'reanalysis-era5-single-levels'`. If you copy/paste this code, you need to add it.
 
 A finall script is written in `bash`. This script will change the years and parameters requested, so that I will have one file per year and variable (recommended).
 
