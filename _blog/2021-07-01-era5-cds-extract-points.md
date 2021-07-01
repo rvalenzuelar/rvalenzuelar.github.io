@@ -68,7 +68,7 @@ def application():
     return points
 ```
 
-If you have `cdsapi` and `cdstoolbox-remote` installed in your current environment you should be able tu run the script above without issues. However, importing other libraries such as `Pandas` or even `sys` will trigger an error when executing this script. I am not sure why this is happening, but I tried different ways and the response from the server always retrieved an error message, even when only using `sys` to capture a year from the command line.
+If you have `cdsapi` and `cdstoolbox-remote` installed in your current environment you should be able to run the script above without issues. However, importing other libraries such as `Pandas` or even `sys` will trigger an error when executing this script. I am not sure why this is happening, but I tried different ways and the response from the server always retrieved an error message, even when only using `sys` to capture a year from the command line.
 
 Importing other libraries is important because you normally will want to change some parameters dynamically, like the request year. Or, as I mentioned above, if you want to provide the parameter from the command line.
 
@@ -103,7 +103,7 @@ def application():
     # Retrieve hourly surface temperature
     data = ct.catalogue.retrieve(
         'reanalysis-era5-single-levels',
-        {
+        {{
             'variable': '{}',
             'product_type': 'reanalysis',
             'year': list(range({}, {})),
@@ -118,7 +118,7 @@ def application():
                 '20:00', '21:00', '22:00', '23:00',
             ],
             'grid':['1', '1']
-            }
+        }}
     )
 
     # Interpolate data for two points
@@ -161,6 +161,8 @@ for var in {'t2m','slp'};do
 done
 ```
 
-The cdstoolbox api downloads a file with a random name of fixed character numbers. These have some dash in between, so I used them to identify the downloaded file and rename it to a more readable name. 
+The `cdstoolbox` api downloads a file with a random name of fixed character numbers. These files have some dash in between, so I used the `-` character to identify the downloaded file and rename it to a more readable name. 
+
+If you find any issue in the scripts above or just want to comment, please send me an email.
 
 I hope these tips will save you time!
