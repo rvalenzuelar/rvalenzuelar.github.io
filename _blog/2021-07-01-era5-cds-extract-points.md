@@ -75,6 +75,7 @@ Importing other libraries is important because you normally will want to change 
 Since I was not able to import other libraries in the script above, I created another "builder" script that will write the "worker" script.
 
 The "builder" script is the following:
+
 ```python
 import sys 
 
@@ -102,7 +103,7 @@ def application():
     # Retrieve hourly surface temperature
     data = ct.catalogue.retrieve(
         'reanalysis-era5-single-levels',
-        {{
+        {
             'variable': '{}',
             'product_type': 'reanalysis',
             'year': list(range({}, {})),
@@ -117,7 +118,7 @@ def application():
                 '20:00', '21:00', '22:00', '23:00',
             ],
             'grid':['1', '1']
-            }}
+            }
     )
 
     # Interpolate data for two points
