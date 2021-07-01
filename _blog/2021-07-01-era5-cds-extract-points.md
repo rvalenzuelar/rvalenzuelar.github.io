@@ -139,7 +139,9 @@ In this way you can change any parameter and call the script using `bash`. I hav
 
 Due to a Github building vulneravility, I have removed one `{}` that should enclose the code after `'reanalysis-era5-single-levels'`. If you copy/paste this code, you need to add it.
 
-A finall script is written in `bash`. This script will change the years and parameters requested, so that I will have one file per year and variable (recommended).
+### Second step
+
+A second script is written in `bash`. This script will change the years and parameters requested, so that I will have one file per year and variable (recommended).
 
 ```bash
 for var in {'t2m','slp'};do
