@@ -57,7 +57,7 @@ def application():
                 '20:00', '21:00', '22:00', '23:00',
             ],
             'grid':['1', '1']
-            }
+        }
     )
 
     # Interpolate data for two points
