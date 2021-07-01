@@ -1,7 +1,7 @@
 ---
 title: How to extract multiple points from ERA5 using cdstoolbox 
 type: blog
-date: 2020-01-24
+date: 2021-07-01
 authors: rvalenzuela
 ---
 
