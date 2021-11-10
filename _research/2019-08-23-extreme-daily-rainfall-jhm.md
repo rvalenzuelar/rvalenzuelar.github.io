@@ -1,10 +1,10 @@
 ---
-title: Extreme Daily Rainfall in Central-Southern Chile and its Relationship with Low-Level Horizontal Water Vapor Fluxes
+title: "The Chilean Tornado Outbreak of May 2019: Synoptic, Mesoscale, and Historical Contexts"
 type: research
-date: 2019-08-23
+date: 2021-03-30
 authors: 
 status: published
 ---
 
 
-__Valenzuela, R.__ and R. Garreaud. Extreme Daily Rainfall in Central-Southern Chile and its Relationship with Low-Level Horizontal Water Vapor Fluxes. Journal of Hydrometeorology, 20, 1829–1850 [PDF](http://dgf.uchile.cl/rene/PUBS/EPE.pdf)
+Vicencio, J., Rondanelli, R., Campos, D., __Valenzuela, R.__, Garreaud, R., Reyes, A., Padilla, R., Abarca, R., Barahona, C., Delgado, R., & Nicora, G. (2021). The Chilean Tornado Outbreak of May 2019: Synoptic, Mesoscale, and Historical Contexts, Bulletin of the American Meteorological Society, 102(3), [PDF](http://dgf.uchile.cl/rene/PUBS/Tornado_chile_2019.pdf)
